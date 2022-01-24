@@ -3,13 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/app-shop/app/Http/Controllers/HomeController.php</file>
-            <file>file:/C:/xampp/htdocs/app-shop/database/migrations/2014_10_12_100000_create_password_resets_table.php</file>
-            <file>file:/C:/xampp/htdocs/app-shop/app/Http/Controllers/TestController.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/app/Http/Controllers/Admin/ImageController.php</file>
             <file>file:/C:/xampp/htdocs/app-shop/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/app/Cart.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/database/seeds/ProductsTableSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/app/CartDetail.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/resources/views/products/show.blade.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/app/Http/Controllers/CartDetailController.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/database/migrations/2022_01_14_174105_create_carts_table.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/database/migrations/2022_01_14_174303_create_cart_details_table.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/resources/views/layouts/app.blade.php</file>
             <file>file:/C:/xampp/htdocs/app-shop/resources/views/home.blade.php</file>
-            <file>file:/C:/xampp/htdocs/app-shop/.env</file>
-            <file>file:/C:/xampp/htdocs/app-shop/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/app-shop/app/Http/Controllers/ProductController.php</file>
         </group>
     </open-files>
 </project-private>
